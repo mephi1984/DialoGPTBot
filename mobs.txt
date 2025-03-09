@@ -1,0 +1,304 @@
+Mobs in Minecraft are programmed to show a fixed behavior towards the players. With that in mind, the in-game mobs are divided into three broad categories:
+Passive Mobs: These mobs never attack the players.
+Neutral Mobs: These mobs attack the players only when triggered.
+Hostile Mobs: These mobs are aggressive towards the players by default.
+Passive mobs are the safest mobs you can encounter in your world. They don’t attack any player even after being provoked. The only exception to these characteristics is the pufferfish, which unintentionally attacks other mobs and players if they get too close.
+Allay - Winner of the 2021 mob vote, Allay is a functional flying mob. It takes items from players and tries to find copies of those objects in the Minecraft world. Then, if and when it finds the item’s copies, the Allay picks them up and returns them to the player. It is the only mob that can perform such an advanced task. Moreover, Allay is also the only mob that can duplicate itself without the need for a partner. Go through our dedicated guide to understand Allay duplication in depth. Regarding usefulness, Allay is easily one of the most versatile mobs in the game. You can even make automatic farms with Allay in Minecraft. The only limitation is your imagination. 
+Armadillo is the winner of the Minecraft Mob Vote 2023. It is a cute passive mob that spawns in the savanna biomes. Furthermore, its ability is to drop scutes that you’ll be able to use to make wolf armor. We have a dedicated guide in place talking about the armadillo mob and its properties. But the one thing that stands out is that the armadillo curls up when it senses danger. Usually spawning in the Savanna biome, Armadillo eats spider eyes and drops scutes. You can also breed armadillos using spider eyes.
+Axolotl - Axolotls are aquatic creatures that are only found in the lush caves biome, which was introduced in Minecraft 1.18. They have five different colors, one of which is the rarest Axolotl in Minecraft.
+All Axolotls prefer to stay underwater. They can survive on land, too, but only for a few minutes. Not to forget, they are also extremely slow while moving on the ground. Though, Axolotls can prevail indefinitely on land if it’s raining.  As for their behavior, Axolotls are passive towards players, but they attack almost all aquatic mobs, including the drowned. They don’t attack turtles, dolphins, frogs, and other axolotls. So, if you ever want to create an army of aquatic warriors, you can use our guide to tame and breed Axolotls in Minecraft.
+Bat - The bats are passive flying mobs that make the underground areas of the game more interesting. They spawn in the cave biomes and the overworld biomes that spread into the caves. You can find them flying or hanging upside down beneath solid blocks. If the bat feels your presence, it will immediately fly away. And it can even detect you while you are invisible.
+Camel - Taking transportation literally to a higher level, the camels are passive mobs that spawn exclusively in the desert villages. They are the only rideable mob that allows two players to sit on them at the same time. Surprisingly, you don’t require two separate saddles for two riders. Moreover, unlike horses, camels don’t have to be tamed before they become rideable. To ride a camel in Minecraft, you have to climb them and place a saddle in their inventory cell. When it comes to breeding, the camels have a baby version that’s not rideable or interactable. You can breed camels in Minecraft by feeding them cacti, which sounds like a weird mechanic but is realistic.
+Cat -Cats are tamable passive mobs who only spawn in villages and swamp huts. There are 11 different types of cats in Minecraft, which share the same characteristics but have different skins. You have to breed cats in Minecraft to get all these variants. Cats naturally hiss at phantoms and creepers, both of which avoid coming close to any cats. Moreover, cats are also immune to fall damage in Minecraft, making them a great partner for extended adventures. You can even get random gift loot from them if you tame cats in Minecraft. But to obtain the gift, the cat must be able to touch and sleep close to you.
+Chicken - Even though they might look basic, chickens are beneficial common mobs. They are the primary source of edible chicken, feathers, and eggs. Regarding behavior, all chickens in Minecraft wander erratically and are immune to fall damage. They can slow their fall speed indefinitely by flapping their wings. But chickens naturally get attacked by ocelots, feral cats,‌ and foxes.  As for their breeding, all chickens spawn from eggs. You can pick and throw chicken eggs, and a chick might pop out occasionally. In the next major update, we will get two new chicken variants, including the warm and cold ones that pop unique colored eggs.
+Cod - Cod fish in a river. In Minecraft, cods are a type of fish that spawn only in the oceans. The cod fish usually generates in a group of 3-7 mobs and can be killed to obtain edible raw cod. A cod can’t survive outside water and dies even in cauldron water and waterlogged leaves and other blocks.
+Cow - Cows are common mobs that spawn in grassy Minecraft biomes in small groups. They don’t attack any other mob or player, but instead they try to run away to safety when they get attacked by the player. It also avoids water, environmental hazards, and steep falls. You can use a bucket on the cows to collect milk from cows in Minecraft. But to obtain raw beef or leather, you must kill the cow. You can use wheat to make them follow you around and to breed cows in Minecraft. Moreover, similar to chickens, cow variants also spawn in their respective biomes.
+Donkey - Donkeys are tamable mobs that can be ridden by attaching a saddle and turned into moveable storage by fitting a chest. They spawn in plains, savanna, and meadow biomes in a group of up to three donkeys. If you want to breed a donkey, you have to feed it golden apples or golden carrots. Though, you don’t always need another donkey to breed one. Instead, if there’s a horse nearby, the donkey will mate with the horse to spawn a mule. The breeding process between horses and donkeys is the only cross-breeding that Minecraft allows.
+
+
+Fox
+Foxes are notorious tamable mobs that love to pick up dropped items in their mouth and run away. They can only carry a single item at a time. If you want to get the stolen item back from a fox, you need to drop glow berries or sweet berries near the fox. It prefers food over any other entity. Players can also use both types of berries to breed foxes.
+Foxes in a taiga
+You can find these delightful creatures in the taiga, old-growth taiga, snowy taiga, and grove biomes. If you wish to tame a fox in Minecraft, you have to take some cruel steps.
+Frog
+A gift of the newly added mangrove swamps, frogs are small passive mobs that spawn only in the swamp biomes. The frogs can generate in three different colors (orange, white, and green) depending upon the temperature of their spawn biome. But irrespective of their color, every frog shares the same characteristics and loves to eat small magma cubes and slimes.
+Frogs Minecraft mobs in a swamp
+If the frog eats a small magma cube, it drops a new item called froglight, which has a color similar to the frog’s color. Expanding on that, if you manually feed a slimeball to the frog, they enter love mode and lays frogspawn (eggs) on a water block. These frog eggs later hatch into tadpoles. Unlike other breedable mobs, the frog does not have a baby variant. You can understand how to breed frogs in Minecraft in our step-by-step guide.
+Glow Squid
+Glow squid in an underwater cave
+Ported from the retired Earth game, the glow squids are aquatic mobs that spawn in dark underwater areas. You can find them in underwater ravines and deep lakes. They are a glowing variant of the regular squids, but their luminance only truly shows with RTX or if you use one of these best Minecraft shaders. Glow squids can’t breed either.
+Horse
+Horses are common passive mobs that can be tamed and ridden. Unlike a donkey, you can’t put a chest on a horse. Instead, as an alternative, Minecraft enables you to equip armor onto your horse, and they even run faster than most other creatures. Both of these features make horses reliable during combat and can play a role in your medieval house ideas in Minecraft.
+Minecraft mobs horses on a grassy plains
+You can find a herd of up to 6 horses spawning in the plains and savanna biomes. Each horse has one of 35 horse skins in Minecraft, which can have seven different colors and five different markings. To collect all variants, use golden apples or golden carrots to breed horses.
+Mooshroom
+Mooshroom is a variant of cows that only spawns in the rare mushroom fields biome. It has mushrooms growing out of its body that the player can pluck with shears. Naturally, only a red Mooshroom spawns in Minecraft. But if this mob gets stuck by lightning, then it can turn into a brown Mooshroom with brown mushrooms growing from its body.
+Red and brown mooshrooms on a mushroom island
+Like a cow, you can use a bucket in Minecraft to milk a Mooshroom. Similarly, you can also use wheat to breed moshrooms and make them follow you around. But unlike a cow, you also get mushroom stew by using bowls on the Mooshrooms.
+Mule
+Mules are passive mobs that can be ridden, tamed, and equipped with chests. They don’t spawn naturally and can only be generated by breeding a horse with a donkey. Mules are usually faster than regular donkeys, but their movement speed is set randomly when they spawn.
+Mules on a grassy plains
+Lastly, the mules in Minecraft can’t have any offspring because of the cross-breeding process that has already taken place.
+Ocelot
+Ocelots are rare feline mobs that only spawn in the jungle biomes. Following the characteristics of cats, they are immune from fall damage and can keep the phantoms and creepers at bay, but unlike cats, they are hostile toward chickens and baby turtles.
+Ocelots Minecraft mobs in a jungle
+They naturally fear players and run away if they get too close. But you can feed raw cod or salmon to an ocelot to gain its trust.
+Parrot
+Parrots are rare flying passive mobs that you can tame. They are only found in the jungle biomes and can mimic the sounds of hostile mobs. You can tame a wild parrot by feeding it wheat, melon, pumpkin, or beetroot seeds. The parrot will fly around you if it gets tamed and even sits on your shoulder.
+Parrots on a jungle tree
+Remember that cookies are poisonous to the parrots, and feeding them to them can kill them immediately. And since they can’t be bred, you will have difficulty finding a replacement for the dead parrot. Lastly, the parrots’ unique mechanic is the ability to dance. If a parrot is within three blocks of a jukebox, it starts to dance and continues doing so until the music stops.
+Pig
+Pigs are a small mob type that spawn in most grassy biomes. They can also be found in animal pens inside villages. You can kill the pigs to get pork chops, or you can place saddles on top of them to ride the pigs. But you have to use a carrot on a stick to drive it around.
+Pigs in a forest
+As for their unique mechanics, pigs can turn into Zombified Piglin, a neutral undead mob, when lightning strikes. But more on that later. Finally, to breed pigs in Minecraft, you must feed them carrots, potatoes, or beetroots. Finally, the next update will bring in new Pig variants spawning in the respective climates.
+Pufferfish
+Pufferfishes are a unique type of passive mob in the game. They are the only passive mob that can damage the player, but they do so unintentionally. You can only find the pufferfish in the lukewarm oceans of Minecraft. Unlike other fish, the pufferfish swim alone and not in groups, but they also can’t survive outside the water or breed in any way.
+Pufferfish in a warm ocean
+What makes pufferfishes genuinely unique is their defense mechanism. If another mob or player gets too close to the pufferfish, it instantly inflates and deals poison-based damage to nearby entities. When it feels safer, it slowly deflates back to its tiny form.
+Rabbit
+Rabbits in a desert
+Just like the Minecraft frogs, the rabbits also have various color variants, depending upon their spawn biome. You can find yellow rabbits in the desert, white and black & white in snowy areas, and black, brown, and brown & white rabbits in the hilly biomes.
+The rabbits usually hop around aimlessly and are prone to attacks by wolves and foxes. You can breed rabbits by giving them carrots, golden carrots, or dandelions. But there is no way to tame them.
+Salmon
+Salmon fish in a river
+Similar to cods, salmon is a common passive aquatic mob that spawns in oceans and rivers. When killed, they are a reliable food source, and you can find a group of up to seven salmons at once to quench your hunger. As you might expect, salmons can’t survive on land or breed like other fishes.
+Sheep
+In survival game mode, sheep are Minecraft’s primary source of wool and mutton. You can find them in most of the grassy biomes of the game. They can have a variety of colors, and if you have some dye, you can use it on the sheep to dye its wool. Then, you can use shears to collect colored wool without killing the sheep.
+Minecraft mobs sheep in a forest
+Like other domestic animals’ counterparts, sheep also can’t be tamed in Minecraft. But you can still breed sheep using wheat. The color of the baby sheep is a mixture of its parents’ colors. Also, as an easter egg, you can name a sheep “jeb_” making its wool cycle through all possible colors.
+Skeleton Horse
+Skeletons horses on a grassy plains
+Even though they might look scary, Minecraft’s skeleton horses are passive undead creatures. They are a variant of horses that appear when a regular horse gets stricken by lightning. These skeleton horses can be ridden and tamed by the player and are one of the fastest means of transportation in Minecraft. They can even jump way higher than regular horses and players.
+Sniffer
+Winner of the Minecraft Mob Vote 2022, the Sniffer is a dinosaur-like ancient animal that doesn’t spawn naturally in the overworld. Instead, you have to find the sniffer egg by unearthing the suspicious sand with the brush in the warm ocean ruins and hatch it.
+Once the egg hatches, the Snifflet appears and slowly grows into one of the largest passive mobs in the game. Its size is comparable to the Ravager.
+Sniffers Minecraft mobs on a grassy plains
+As a passive mob, the Sniffer never attacks the player, even if you attack it first. Instead, it helps them grow unique plants by sniffing out seeds from the ground.
+Also Read:
+All Confirmed Features Coming in the Next Minecraft Update
+Snow Golem
+Like an iron golem, the snow golems are utility mobs that attack hostile mobs with snowballs. But they don’t mind the players even if they attack the snow golems directly. These golems also leave a trail of snow behind wherever they go.
+Snow golems with and without the pumpkin
+You can create a snow golem by stacking two snow blocks vertically on top of one another and putting a pumpkin, a carved pumpkin, or a jack-o’lantern on top. Also, you can shear the snow golem’s head using shears and it’ll change the appearance.
+Squid
+Squid in water
+Squids are ordinary aquatic mobs found in the oceans and rivers. They use their tentacles for swimming and can’t survive outside the water. They generally don’t interact with the players and release blank ink when attacked. You can kill them to get ink sacs in Minecraft. But ensure not to overdo it, as there is no way to breed the squids.
+Strider
+Striders on a lava lake
+Striders are the only passive mobs that spawn in the Nether dimension. They usually spawn in the Nether’s lava lakes and can walk on lava without taking any damage.
+Players can put a saddle on a strider to ride it. But they must use a warped fungus on a stick to control the striders. You can use the warped fungus to breed striders while keeping them away from water. They take damage from water and rain as well.
+Tadpole
+Tadpoles in water
+Even though there are no baby frogs in Minecraft, the tadpoles still exist. Like their real-world counterparts, they’re in the larval stage of frogs and can’t survive on land. They hatch out of frog spawn (eggs) and swim around aimlessly until they grow into frogs. You can put them in a water bucket or make them follow you using a slimeball.
+Tropical Fish
+Tropical fish in a warm ocean
+Tropical fishes are the most common and most diverse aquatic mobs. The game has more than 2,700 naturally occurring variants of them. You can try finding them all in oceans, mangrove swamps, and the new lush cave biomes. You can find a group of up to 9 tropical fishes at once. They can’t be bred or tamed, but you can kill tropical fishes to get them as edible items.
+Turtle
+Turtles, also known as “sea turtles” in the Bedrock edition, are commonly found in small groups of up to five mobs in beach biomes. But they don’t spawn on snowy or stony beaches. They can survive on both land and water. You can’t tame the turtles, but you can breed them with the help of seagrass.
+Turtles on a beach in Minecraft
+After entering love mode, turtles lay eggs that later hatch into baby turtles. These baby turtles prefer water over land. Once they grow into adult turtles, they drop scutes, which you can use to craft turtle helmets and the Potion of Turtle Master. There is no other way to get these scutes in Minecraft.
+Villager
+Irrespective of your skillset in Minecraft, villagers can genuinely help you in almost every situation. They are friendly and can trade, breed, and interact with their kind. In a way, villagers are the smartest passive creatures in-game, and you can find them in the villages of Minecraft.
+Villagers in a village
+Then, to add variety to their existence, the game also features a unique job system exclusive to villagers. Based on the jobs of villagers, they can provide you with exclusive loot and exceptional trade deals.
+Wandering Trader
+The wandering traders have a unique spawn mechanic in the game. They are, in theory, like villagers, but you don’t have to go to villages to find them. Instead, these wandering traders naturally spawn within a 48-block radius of the player. They always generate with two leashed trader llamas.
+Wandering trader in a village
+You can trade with the wandering trader for natural items like dies, saplings, and biome-based blocks. Even though most players don’t require the items they offer, the wandering traders can still be helpful in certain situations.
+Neutral Mobs
+The neutral mobs are not directly hostile to the player. Instead, they attack the player if an attack or similar provocation mechanic provokes them. The only exception to this rule is the goats.
+Bee
+Bees are one of the cutest mobs. They are neutral and keep flying around their nests and beehives. Due to their flight, they are immune to all fall damage in the game. If you know how to make a bee farm in Minecraft, you can productively use them to collect honey and honeycomb.
+Bees flying
+As for the dangerous part, the bees become hostile if you attack a bee from the swarm or destroy their beehive. When they become aggressive, the bees attack the player in a swarm and give a poison effect to them. But sadly, once a bee successfully strikes with its stringer, it can’t survive and dies after a minute.
+Cave Spider
+Cave spiders in a mineshaft
+As the name reveals, cave spiders are a variant of the regular spiders that only spawn in cave biomes. They don’t spawn naturally and can be solely spawned by the spawners of mineshafts. These cave spiders are smaller than the regular spiders but more dangerous. Each of their attacks leaves a poison effect on the player. Fortunately, they only become hostile if the light level drops below nine, or it’s night outside.
+Dolphin
+Dolphins are aquatic mobs that only spawn in non-frozen oceans. Unlike other fishes, dolphins occasionally jump out of the water to get some air for survival. So, they can’t survive either inside or outside the water for too long without shuffling between them.
+Dolphins in an ocean
+They are naturally friendly towards the players and even grant them a speed boost if swimming near them. You can even use them to find shipwrecks, buried treasures, and ocean ruins by feeding the dolphins raw cod or raw salmon. But if you accidentally attack a dolphin, its whole pod will come after you.
+Enderman
+Giving a creative spin to the internet myth of Slenderman, Minecraft has its Enderman mob. It looks scary and can be found in all three dimensions of the game. Its main powers include teleportation and picking up random blocks. You can move around the Enderman without it attacking you at any time.
+Endermen in the End
+But things change if you attack the Enderman first or look into its eyes directly. Once triggered, the Enderman will try to hunt you. It can even dodge your arrows and melee attacks by teleportation. Fortunately, because Endermen are scared of water and too tall to fit into closed spaces, defeating them is pretty easy.
+Goat
+Minecraft Goats are neutral mobs that are exclusive to the snowy slopes, frozen peaks, and jagged peaks biomes. They can jump high and take more minor fall damage. Just like the cows and Mooshrooms, you can use a bucket on them to collect milk. Goats don’t mind players’ presence and don’t get triggered if you attack them.
+Minecraft mobs goats on a frozen peak
+But the goat will ram into you if you stay stationary for a few seconds. If it hits you successfully, you will receive slight damage and be knocked back by nine blocks. If they hit one of the few solid blocks, it can drop a goat horn in Minecraft, the game’s first musical instrument.
+Iron Golem
+Iron Golems are one of the largest mobs. They naturally spawn around villagers and can also be created manually using iron blocks and carved pumpkins, jack o’lanterns, or pumpkins. Natural or not, all Iron Golems are hostile towards the hostile mobs. They are immune to fall damage and drowning.
+Iron golems in a village
+When it comes to players, an Iron Golem gets provoked if the player attacks a nearby villager or the Iron Golem itself. But this mechanic doesn’t work in the case of manually built Iron Golems. However, if you make an iron golem, it won’t attack players.
+Llama
+Llamas are neutral mobs that only spawn in windswept hills and savanna biomes. They are the only neutral mob you can equip with chests. But unlike horses and donkeys, you must place a carpet instead of a saddle to ride them.
+And since llamas travel in groups, you can lead one llama to make up to 9 other llamas follow you. You can breed two llamas using hay bales if you can’t find more of them naturally.
+Llamas on a hill
+The llamas are the best transportation for shifting your Minecraft house and for extended adventures. All llamas are neutral by default but will start spitting if a mob or a player attacks them. Each spit of a llama deals damage worth one point. Also, they are naturally hostile towards untamed wolves who always run away from the llamas.
+Panda
+Pandas are neutral mobs that are exclusive to the jungle biomes. You can find them most commonly in the bamboo jungles. Just like their real-life counterparts, the pandas in Minecraft have different personalities, including normal, lazy, worried, playful, aggressive, weak, and brown. Each panda, depending upon its personality, behaves differently.
+Pandas in a jungle in Minecraft
+Only the aggressive pandas attack the players and other mobs if they are hit. But all pandas in Minecraft are fond of bamboo and cake. If the player is holding a bamboo, the panda will follow them around. Persisting their uniqueness, the pandas are the only mob with special breeding requirements and a gene system. You can find out more about the same on Minecraft Wiki.
+Piglin
+Piglins are neutral mobs that only spawn in the Nether dimension. They are naturally hostile towards the players unless the player is wearing a piece of golden armor. If you don’t provoke them, you can grow gold ingots at them for bartering. The Piglins pick up the gold ingots and throw a random item in return.
+Piglins in a crimson forest
+Piglins in a group can also get provoked if you attack another Piglin or a Piglin brute. They can be easily distracted if you throw a gold ingot near them. Moreover, even though Piglins are from the Nether, they are not immune from lava or fire-based damage.
+Also Read:
+Minecraft Firefly Bush: How to Get, Uses and More
+Polar Bear
+Polar bear and her cub on ice in Minecraft
+Polar bears are one of the simplest mobs that spawn only in icy biomes. They can’t breed and don’t attack players unless they are attacked first. Naturally, they are only hostile towards foxes. If you kill a polar bear, it can drop raw cod or raw salmon. It’s best not to fight them in the water as their swimming speed is the same as the players.
+Spider
+Spiders in a cave
+Spiders are neutral mobs that can climb on all solid blocks in the game. They are not hostile towards the players as long as the night level around them is 12 or higher. If the light level drops, the spiders become hostile and try to kill the players. You can find them in all biomes of the Overworld except the mushroom fields and the deep dark.
+Trader Llama
+Trader llamas next to a wandering trader in a village
+Trader llamas are a variant of the llamas that spawn alongside wandering traders. They are naturally hostile towards all zombies and Illagers (Java only). Usually, the trader llamas don’t attack players unless the players attack them first. But they can also become hostile if the player attacks the wandering trader. Their spit damage and other characteristics are the same as regular llamas.
+Wolf
+Wolves are one of the most useful neutral mobs that you can tame and use in combat. The wild wolves are naturally hostile towards sheep, rabbits, foxes, baby turtles, and skeletons but don’t attack the players unless the player attacks them first. But if you tame a wolf by giving it bone, it will also attack every mob you attack. However, they avoid attacking creepers and tamed mobs.
+Minecraft mobs wolves in a forest
+You can breed wolves using any meat in the game, including rotten flesh. The baby wolves that the player breeds are naturally tamed. Furthermore, each one will have a unique sound that showcases their varying personality. The wolf variants are also quite interesting to look at.
+Zombified Piglin
+As the name suggests, the Zombified Piglin is an undead variant of the regular Piglins. They are also exclusive to the Nether dimension, but if a pig gets struck by lightning in the overworld, it can turn into a Zombified Piglin. Unlike Piglins, Zombified Piglins are immune to fire and lava-based damage.
+Zombified piglins in a  Nether wastes biome
+Fortunately, you don’t have to wear gold to avoid the provocation of Zombified Piglins. They only get provoked when you attack them or one of their kind. Otherwise, they are passive. Moreover, they don’t attack villagers and wandering traders, even though other zombie mobs do.
+Hostile Mobs
+All hostile mobs are aggressive and attack the players as soon as they detect them. You can’t tame, ride, or calm most of these mobs.
+Blaze
+Blazes are hostile mobs that you will only find in the Nether fortresses. They spawn with the help of spawners in the fortresses and keep floating until they are killed. All Blazes are immune to fire, lava, and fall damage. Because their body is always on fire, Blazes can take damage from water, rain, snowballs, and powder snow.
+Blazes in a Nether fortress
+The most common attack of the Blaze is the fireballs that they shoot if the target is in front of them. Otherwise, you also take melee damage by touching the Blaze. If you somehow kill a blaze, it might drop a single blaze rod. There is no other way to get blaze rods in Minecraft, and you need them to make blaze powder, which is used to power brewing stands and make potions in Minecraft.
+Bogged
+Bogged is a skeleton variant introduced in Minecraft 1.21. It’s covered with moss and mushrooms; its weapon is a bow that shoots poison arrows. They will inflict a poison status effect for 4 seconds, which can’t kill you on its own, but the raw arrow damage can. Bogged spawns in swamps and mangrove swamps during the night.
+Bogged in a swamp in Minecraft 24w07a snapshot
+It doesn’t replace all skeleton spawns; other hostile mobs also spawn. You’ll also encounter the Bogged in trial chambers, as trial spawners with bone blocks, podzol blocks, and red mushrooms spawn them.
+Thankfully, these skeletons have eight hearts and behave like normal skeletons, so it’s not that hard to kill them. Once you do, you will receive regular skeleton drops, including bones and arrows and poison arrows.
+Breeze
+Breeze is a Minecraft 1.21 mob that spawns only inside trial chambers. It’s necessary to activate a trial spawner with chiseled tuff blocks around in order to summon the Breeze. The mob’s attack is the wind charge projectile, which Breeze shoots at players.
+Breeze mob shooting its wind charge attack in Minecraft 1.21
+This attack doesn’t deal much damage, but it does knock back entities in the area, which can result in catapulting the player in the air. Breeze moves by jumping from one location to the other which makes it difficult to reach. Moreover, projectiles like arrows and tridents cannot hurt the Breeze as it deflects them all.
+One more unique property of the wind charge is that it can interact with certain blocks, like levers and buttons, and even break decorated pots, pointed dripstone, and chorus flowers. If you manage to kill the Breeze, you’ll receive up to 6 wind charge weapons, which are very fun to use.
+Chicken Jockey
+Even though it might not look harmful, the Chicken Jockey is one of the most irritating mobs in the game. They are a rare baby variant of zombie, Zombified Piglin, zombie villager, Husk, or drowned riding a chicken. Chicken Jockeys are extremely fast and hard to hit. Chicken Jockey can ride other mobs in the Bedrock Edition, including spiders.
+Chicken jockeys during the night
+Though, it’s worth noting that the Zombified Piglin chicken jockeys are not hostile. The rest will attack you as soon as you get in their line of sight. Once you kill the jockey, the chicken they were riding acts as a regular chicken.
+Creaking
+The latest hostile mob added in the Garden Awakens drop is called, the Creaking. Native to the Pale Garden biome, this creepy monster spawns only during the night near an active Creaking Heart block. In addition to its scary looks, the Creaking lurks up behind you the moment you take your eyes away from him. It then whacks you, dealing 2 points of damage with each hit.
+The Creaking mob minecraft
+Defeating this creature is not very tough, as you need to locate the Creaking Heart block. So, if you try hitting the mob, you’ll realize that it doesn’t take any damage but rather emits a trail of orange particles.
+Follow this trail to reach a pale oak log, where resin particles are generated. Break some logs while keeping an eye on the monster to discover the heart block and finally destroy it as well.
+Creeper
+Creepers are common hostile mobs in the overworld that spawn at night and in low-light areas. Unlike zombies, they don’t get damaged by sunlight. They don’t attack any mob in the game except the player. But if a player gets within a three-block range of a Creeper, the Creeper explodes itself, damaging the player.
+Creepers in a cave
+The best way to avoid Creepers is by killing them before they explode or having a pet cat around to scare them off. If you successfully kill a Creeper, it drops gunpowder. Another exciting mechanic of Creeper is that their body starts to glow when they are struck by lighting. They become a “Charged Creeper.” This variant of Creeper causes a more powerful self-explosion than the regular Creeper.
+Drowned
+Drowned in a river
+Drowned is the underwater variant of zombies that spawn in the ocean, rivers, and water pools of the dripstone caves biome of Minecraft. However, what makes drowned truly special is their ability to spawn with tridents. There is no way to get a trident in Minecraft other than by killing a Drowned holding a trident.
+Elder Guardian
+The Elder Guardians are the largest and strongest aquatic mob. They are a variant of the Guardians but much more robust and larger. Elder Guardians spawn only inside the ocean monument and don’t move much away from their spawn area, even while fighting. Like the Guardians, the Elder Guardians also have laser and spike attacks.
+Elder guardian mob in an ocean monument in Minecraft
+In addition, they can also give mining fatigue to the players, which decreases the player’s attack and mining speed. The attack of mining fatigue can be inflicted through blocks, so there is no defense against it. When an Elder Guadian dies, it drops Prismarine shards, wet sponge, raw code, or Prismarine crystals.
+Endermite
+Endermites in the End
+The Endermites are the smallest hostile mobs. They have a chance of spawning whenever a player throws an ender pearl. They are naturally hostile towards players. In the Bedrock Edition, the Endermites also attack Endermen and Iron Golems. Moreover, all Endermen are naturally hostile towards Endermites in all editions of Minecraft.
+Evoker
+Evokers in a woodland mansion
+Evokers are the spell-casting member of the Illager family. They spawn during raids and within woodland mansions. Even with their rare spawn rates, they are the most sought-after of the Illagers as Evokers are the only source of the Totem of Undying in Minecraft. But don’t take them lightly; Evokers are pretty dangerous and summon fangs or Vexes to attack their enemies.
+Ghast
+Exclusive to the Nether dimension, Ghasts are huge hostile mobs with a ghost-like appearance and white bodies. They shoot fireballs at their targets which explode on impact. All ghasts are only hostile towards the player and don’t attack other mobs intentionally.
+Ghast Minecraft mob in a soul sand valley
+If a ghast fires a fireball at you, you can send it back with a melee or ranged attack and if the ghast dies you’ll get one of the Minecraft advancements. Ghasts take damage from their own fireballs at a close distance. Bows are a much easier weapon to use against the Ghasts. Once a Ghast dies, it ends up dropping gunpowder or ghast tears.
+Guardian
+Guardians are hostile aquatic mobs that only spawn around ocean monuments. They are naturally hostile towards the players, dolphins, squids, axolotls, and glow squids. Instead of melee combat, all Guardians use lasers to attack their enemies, which they charge every 3 seconds before firing.
+Guardians in front of an ocean monument
+Unlike other aquatic mobs, the Guardians can survive outside water, too. But they still keep flopping around, searching for water. They also have a defense mechanism similar to pufferfishes by extending the spikes on their bodies to attack their target. If you somehow kill the Guardian, it can drop raw cod and Prismarine crystals.
+Hoglin
+Hoglins are the only breedable hostile mobs. In a way, they are the Nether version of the overworld pig but much more aggressive. They drop pork chops and leather when killed. You can easily find them in the crimson forests biome in a herd of up to four Hoglins. They also spawn in some bastion remnants.
+Minecraft mobs hoglins in a crimson forest
+Hoglins are naturally hostile towards the players. And if you attack one Hoglin, the entire group comes after you. To scare them off, you can use warped fungi, nether portals, and respawn anchors. Lastly, to breed these hostile creatures, you must feed them crimson fungi, which spawn in the Nether.
+Husk
+Husks in a desert 
+Husks are a variant of zombies that only spawn in the desert biomes of Minecraft at night or in dark areas. Unlike zombies, they don’t burn under the sunlight. All of their other characteristics are identical to a regular zombie. If a Husk is drowned in water for 30 seconds, it automatically turns into an ordinary zombie.
+Magma Cube
+Magma cubes in a basalt delta
+Magma Cubes are the Nether counterparts of the slimes. They also have a cube-shaped bouncy, dividable body and a hostile intention to kill players. But when compared to slimes, the Magma Cubes can jump much higher and deal more severe damage. Moreover, they are immune to lava, fire, and fall damage. Not to forget, even the smallest Magma Cubes significantly damage the players.
+Phantom
+Phantoms flying during the night
+Hated by some and voted into the game by others, Phantoms are the controversial winners of Minecon 2017’s mob vote. They are flying undead mobs that spawn during the night if the player doesn’t sleep for more than three days. If you kill a Phantom, it might drop a phantom membrane. But another phantom will spawn the following night unless you sleep or die. Like zombies and skeletons, Phantoms can’t survive under sunlight and get set ablaze.
+Piglin Brute
+The Piglin Brute is a hostile member of the Piglin family. They are much stronger than regular Piglins and appear in bastion remnants. You can’t barter with the Piglin Brutes, nor can you distract them. They attack the players even if they are wearing gold. Every Piglin Brute has a golden axe that may or may not spawn with enchantments.
+Minecraft mobs piglin brutes in a bastion
+You can try to kill the hostile mob to get its weapon. Besides the player, the Piglin Brutes also attack Wither Skeletons and Withers. Judging by the numbers, Piglin Brutes are the second strongest non-boss hostile mob alongside Vindicators in the game. The only stronger hostile mob is the Warden.
+Pillager
+Pillagers next to an outpost
+Pillagers belong to the family of Illager mobs that are sworn enemies of villagers. All of them are hostile towards players, villagers, snow golems, wandering traders, and Iron Golems. The Pillagers are the weakest members of Illagers and carry a crossbow to kill their targets. You can find Pillagers during raids, patrols, and around Pillager outposts. If you kill a Pillager, it can end up dropping a crossbow, ominous/Illager banner, and arrows.
+Ravager
+Ravagers are powerful and large hostile mobs that only spawn alongside the Illagers during raids. Most of the time, they spawn without a rider, but you can find Illagers riding them every now and then. Unlike most mobs in the game, Ravagers can even destroy a few weak plant-based blocks by charging into them.
+Ravagers next to a pillager outpost
+They don’t carry weapons and rely solely on ramming attacks to hunt their enemies. Usually, it’s best to kill them while maintaining a distance. When ravagers die, they drop saddle and twenty experience orbs, the most amount of XP a non-boss mob can drop.
+Shulker
+Shulkers are one of the unique hostile mobs that only spawn in the end cities. They hide in their block-like shell to blend with the surrounding blocks. All Shulkers are hostile towards players and shoot Shulker bullets to attack them. Their projectile bullets follow you and make you levitate if it hits you.
+Shulkers in an end city
+Moreover, killing the Shulker isn’t easy as they keep teleporting to avoid getting hit. But if you somehow kill the Shulker, it might end up dropping Shulker Shells which are the main ingredient to craft Shulker boxes.
+Silverfish
+Minecraft mobs silverfish in a stronghold
+Silverfishes are tiny hostile mobs that spawn in strongholds, igloo basements, and woodland mansions. A lot of times, they stay hidden inside stony blocks until the player breaks that block. Silverfishes are hostile towards players, Iron Golems, and snow golems and attack them in groups. Fortunately, Silverfishes are easy to kill and don’t drop anything but experience orbs.
+Skeleton
+Skeletons in a cave
+Staying true to their names, Skeletons are hostile mobs that are entirely made of bones. They always spawn with a bow in the light level of zero in the overworld and are hostile towards players and Iron Golems. Unlike players, Skeletons have unlimited arrows but can’t survive in sunlight.
+Skeleton Horseman
+Skeleton horsemen in rain
+The Skeleton Horseman is a hostile mob that consists of a Skeleton riding a Skeleton horse. It is a rare undead mob that can only spawn if lightning strikes a skeleton trap horse in a natural thunderstorm.
+Besides the Skeleton, this mob can have a Stray or a Wither Skeleton riding the Skeleton horse. The only good thing about this dangerous mob is that you don’t have to worry about the horse part, which is passive and turns tamed when its rider dies.
+Slime
+Slimes are cube-shaped hostile mobs that spawn in swamp biomes at night or, in particular, “slime chunks” in underground areas. They are bouncy and divide into smaller slime when attacked. But if you kill the smallest slimes, they end up dropping slimeballs. The damage that a slime cause is directly proportional to its size, except for the smallest slime, which deals no damage.
+Slimes in a swamp
+All slimes are hostile towards players, Iron Golems, and snow golems. They attack them directly in melee combat. This mechanic is used in slime farms. Even though slimes are slower than other hostile mobs, their attack speed is much faster.
+Spider Jockey
+Spider jockeys during the night in Minecraft
+The spider jockey features a Skeleton riding a spider similar to a chicken jockey. This rare mob can naturally spawn in the Nether and overworld dimensions. You can also find its variants in which a Stray or a Wither Skeleton is riding the spider or, sometimes, even a cave spider (Bedrock only). Other than the combined strengths of the two mobs, there is no unique mechanic related to this mob.
+Stray
+Strays on a snowy plains
+Strays are a variant of the Skeletons that only spawn in frozen, ice, and snowy biomes. They replace 80% of the Skeletons spawning in those biomes. A regular Skeleton can also turn into a Stray if kept inside powder snow for 7 seconds. Other than endurance towards cold, Strays have the same characteristics as Skeletons.
+Vex
+Vexes next to an evoker in Minecraft
+Vex is one of the smallest hostile mobs that carry a tiny iron sword and can fly through solid blocks. It only spawns when an Evoker summons the Vex for an attack. Because they are hard to hit, it’s best to avoid the Vexes if possible. They die after a few seconds of spawning anyways. So, unless there’s an Evoker alive to spawn the Vexes again, you don’t have to worry about them.
+Vindicator
+Vindicators in a woodland mansion
+Vindicators are the most vital members of the Illager family and the second strongest non-boss hostile mob. They spawn in woodland mansions and raid with an iron axe in their hand. Their axe is sometimes enchanted, making them even harder to fight. Other than that, they have the same characteristics as the Pillagers.
+Warden
+Warden is the strongest hostile mob that, under the right circumstances, can even kill the boss mobs. It deals the greatest melee damage among all mobs and can even fire sonic attacks at a distance. Warden is also the first blind mob in the game, relying on vibrations and smell to find its target.
+Minecraft mobs wardens in an ancient city
+Warden only spawns in the Ancient cities if a Sculk shrieker gets activated four times. It is uniquely hostile towards every single mob. You can learn everything you need about Warden through our dedicated guide.
+Also Read:
+How to Defeat Warden in Minecraft 1.19
+Witch
+A witch is a common hostile mob that spawns during raids, in dark areas, in swamp huts, and if lightning strikes a villager. Regular witches are hostile toward the players. Meanwhile, the witches spawned during raids are hostile towards villagers, wandering traders, and iron golems.
+Witch in a swamp hut 
+Instead of weapons or melee attacks, witches use splash potions as short-range weapons. They can even heal themselves by drinking positive potions. If you kill a witch, it can drop sticks, glass bottles, glowstone dust, gunpowder, Redstone dust, spider eyes, and sugar. You can also get the Witch to drop bottles of potions if you kill it while it’s drinking a potion.
+Wither Skeleton
+Wither skeletons in a Nether fortress
+A Wither Skeleton is the most dangerous variant of the Skeletons that exclusively spawns in the Nether fortresses. Instead of bows, this mob uses swords that can inflict a poisonous Wither effect on its target. If you are not prepared, it’s best to avoid fighting them. But you must kill them if you want to collect Wither Skeleton skulls, as they allow you to spawn the Wither boss mob in Minecraft.
+Zoglin
+Zoglins in the Overworld next to a Nether portal
+Zoglins are the undead or zombified variant of the Hoglins that come into form when a Hoglin leaves the Nether dimension. They are hostile towards all mobs except creepers, Ghasts, and other Zoglins. Like other zombie mobs, Zoglins only drop rotten flesh when killed and can’t be bred. Though, as a bonus of zombification, they are immune to fire and lava.
+Zombie
+Zombies are common hostile mobs that spawn during the nighttime in the overworld. They can also generate in underground low-light areas in groups of up to four zombies. At times, some zombies can also spawn equipped with weapons, tools, and even armor.
+If you kill the geared zombie, it might drop the supplied item. Moreover, if a regular zombie comes across the dropped items, it can pick and gear itself up too.
+Zombies in a cave
+All zombies are easy to kill in small groups. However, they can easily overpower the player in more enormous swarms. But you only have to keep them at bay until sunrise as all zombies start burning under direct sunlight. This mechanic doesn’t work if the zombie is wearing head armor or is standing in water or cobwebs.
+Zombified Villager
+Minecraft mobs zombified villagers in a cave
+Zombie villagers are a common variant of zombie mobs that spawn if a zombie kills a villager. They can also spawn alongside regular zombies at night in the overworld. If the zombified villager has a job before turning, their zombie version also has the costume related to that job. Luckily, you can quickly cure zombie villagers in Minecraft to turn them back into regular villagers.
+Boss Mobs
+Minecraft has two bosses that are extremely powerful and only spawn in particular circumstances.
+Ender Dragon
+Ender Dragon is, in a way, the final boss of Minecraft. She is also the largest mob in the game and naturally only spawns once in the End Dimension. You can resummon her by placing four end crystals on the edge of the exit portal in the End. It is the most resilient mob in the game that only takes damage from explosions and damage caused by the player.
+Ender dragon in the End
+On the offensive side, the Ender Dragon has multiple combat options, including direct charge, knockback, dragon’s breath, and fireball. Moreover, it’s almost impossible to kill the Ender Dragon without destroying the End crystals first, which constantly heal the dragon. When the Ender Dragon is killed, she drops 12,000 experience orbs and creates an exit portal with a dragon egg on its top.
+Wither
+Wither is a hostile boss mob that only spawns if a player creates them. It is extremely powerful and creates a large explosion when spawned. Wither attacks all mobs and players in the game with projectile Wither skulls.
+When the hit is successful, the target receives damage and the poisonous Wither effect. If you somehow reduce the health of Wither to half, it activates a shield, making it immune to all attacks for a few seconds.
+Wither flying in the Overworld
+At the same time, it also spawns Wither Skeletons for support. Wither has tremendous health compared to other mobs, second only to the Warden. With all this information, fighting the Wither feels like a form of self-sabotage. However, it’s also the only way to collect Nether stars, which allows you to make a beacon in Minecraft.
+With that, you are now equipped with the essential information about every mob in this lovely blocky game. Whether you want to tame, breed, transport, or kill them, our guide will come in handy for your adventure plans. Having said that, which mob is your favorite? And which one you wouldn’t mind getting removed from the game? Tell us in the comments below!

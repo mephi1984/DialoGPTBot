@@ -7,6 +7,7 @@ import asyncio
 from queue import Queue
 import random
 
+import os
 from concurrent.futures import ThreadPoolExecutor
 
 import imaplib
@@ -15,6 +16,8 @@ from email.header import decode_header
 import logging
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone
+
+WORK_DIRECTORY = "D:\\Work\\media\\TelegramBotFiles"
 
 IMAP_CONFIG = {
         'email': 'mephi1984@yandex.ru',
@@ -36,14 +39,14 @@ chat_history_ids = None
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global chat_history_ids
     chat_history_ids = None
-    await update.message.reply_text('Привет! Я ваш телеграм-бот с DialoGPT. Начнем диалог!')
+    await update.message.reply_text('Hello, I am DialoGPT bot!')
 
 
 async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global chat_history_ids
     print("chat update")
     # -1002520236252
-    print(update.message.chat.id)
+    #print(update.message.chat.id)
 
     if update.message.chat.type in ["group", "supergroup"]:
         if not update.message.text:
@@ -52,12 +55,6 @@ async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
         user_message = update.message.text
 
-    # Проверяем, обращено ли сообщение к боту (для групп)
-    is_directed_to_bot = (
-            update.message.chat.type in ["private"] or
-            (update.message.chat.type in ["group", "supergroup"] and
-             BOT_USERNAME.lower() in update.message.text.lower())
-    )
 
     # Проверяем на наличие ключевых фраз для реакций
     if "good luck" in user_message.lower():
@@ -66,10 +63,64 @@ async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif "love" in user_message.lower():
         await asyncio.sleep(random.uniform(2, 5))
         await update.message.set_reaction([ReactionTypeEmoji('❤️')], is_big=False)
+    elif "files" in user_message.lower():
+        # Показываем список файлов
+        try:
+            files = os.listdir(WORK_DIRECTORY)
+            if not files:
+                await update.message.reply_text("Directory is empty, boss!")
+            else:
+                file_list = "\n".join(files)
+                await update.message.reply_text(f"You have these files, boss:<code>\n{file_list}\n</code>", parse_mode="HTML")
+        except FileNotFoundError:
+            await update.message.reply_text("Directory not found, boss!")
+        except Exception as e:
+            await update.message.reply_text(f"Error happened, boss! Error is: {str(e)}")
 
+        return
+    elif "send me " in user_message.lower():
+        # Обрабатываем команду send me (с возможным упоминанием бота)
+        parts = user_message.lower().split('send me')
+        if len(parts) < 2:
+            await update.message.reply_text("Please tell the file name after \"send me\" boss!")
+            return
+
+        filename = parts[1].strip()
+
+        if filename.startswith('@'):
+            filename = filename.split(maxsplit=1)[1] if ' ' in filename else ''
+
+        if not filename:
+            await update.message.reply_text("Please tell the file name after \"send me\" boss!")
+            return
+
+        filepath = os.path.join(WORK_DIRECTORY, filename)
+
+        try:
+            if os.path.isfile(filepath):
+                with open(filepath, 'rb') as file:
+                    await update.message.reply_document(file, caption=f"Here is your file, boss: <b>{filename}</b>", parse_mode="HTML")
+            else:
+                await update.message.reply_text("Sorry, boss, file not found!")
+
+        except Exception as e:
+            await update.message.reply_text(f"Error happened, boss! Error is: {str(e)}")
+        return
+
+    # Проверяем, обращено ли сообщение к боту (для групп)
+    is_directed_to_bot = (
+            update.message.chat.type in ["private"] or
+            (update.message.chat.type in ["group", "supergroup"] and
+             BOT_USERNAME.lower() in update.message.text.lower())
+    )
+
+    is_reply_to_bot = (
+            update.message.reply_to_message and
+            update.message.reply_to_message.from_user.id == context.bot.id
+    )
 
     # Для сообщений не к боту - 30% вероятность ответа
-    if not is_directed_to_bot and random.random() > 0.3:
+    if not is_directed_to_bot and not is_reply_to_bot and random.random() > 0.3:
         return
 
     new_user_input_ids = tokenizer.encode(user_message + tokenizer.eos_token, return_tensors='pt')
@@ -101,7 +152,8 @@ async def check_and_notify(context):
             for email in new_emails:
                 await context.bot.send_message(
                     chat_id=ADMIN_CHAT_ID,
-                    text=f"📧You have a new email, boss!\n**From:** {email['from']}\n**Subject:** {email['subject']}"
+                    text=f"📧You have a new email, boss!\n<b>From:</b> {email['from']}\n<b>Subject:</b> {email['subject']}",
+                    parse_mode = "HTML"
                 )
     except asyncio.TimeoutError:
         logging.warning("Проверка почты превысила лимит времени")

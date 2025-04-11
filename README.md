@@ -14,7 +14,6 @@ pip install datasets
 pip install python-telegram-bot
 
 
-huggingface-cli login
 
 
 

@@ -7,7 +7,7 @@ tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-medium")
 model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-medium")
 
 # Токен вашего бота
-TOKEN = '329813440:AAEoPKCYymp15Hk8LxYjrP28iZ81DexzMiM'
+TOKEN = ''
 
 # Обработчик команды /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):

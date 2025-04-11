@@ -12,7 +12,7 @@ pip install transformers sentence-transformers faiss-cpu torch
 pip install transformers accelerate bitsandbytes
 pip install datasets
 pip install python-telegram-bot
-
+pip install "python-telegram-bot[job-queue]"
 
 
 
